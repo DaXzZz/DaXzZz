@@ -1,81 +1,75 @@
-# 👋 Hello, I'm Nontapat Chucharnchai  
+# Nontapat Chucharnchai
 
-## 🚀 About Me  
-I'm a **Computer Engineering student** passionate about **Artificial Intelligence, Natural Language Processing (NLP), and Social Computing**.  
-I enjoy building **AI-powered tools**, exploring **data-driven systems**, and solving real-world problems through **interdisciplinary technology**.
+Computer Engineering student with research and industry experience in AI, NLP, and network systems.
+Currently seeking opportunities in **AI Engineering**, **LLM Development**, or **ML-adjacent software roles**.
 
-🔹 Interested in **NLP, AI for Healthcare, and Web-based Social Applications**  
-🔹 Experience in **API Development, AI Integration, and Data Handling**  
-🔹 Currently exploring **Machine Learning, Text Analytics, and Language Models**
-
-📫 Reach me at: [ncc.nontapat@gmail.com]  
+📧 ncc.nontapat@gmail.com &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/nontapatchu)
 
 ---
 
-## 🛠️ Languages & Technologies  
+## Experience
 
-### **Programming Languages**  
+**AI/NLP Research Intern** &nbsp;·&nbsp; Nara Institute of Science and Technology (NAIST) &nbsp;·&nbsp; 2025
+
+Conducted research on multilingual symptom detection from social media text using data augmentation strategies.
+Fine-tuned Llama 3.2-3B with LoRA across 12 languages and compared five augmentation methods —
+paraphrase generation, translation round-trip, visual round-trip, mixed augmentation, and a fine-tuned baseline.
+
+`Python` `HuggingFace` `LoRA` `OpenAI API` `BERTScore` `PyTorch`
+
+**Network Engineer Intern** &nbsp;·&nbsp; Advanced Information Technology Public (AIT) &nbsp;·&nbsp; Apr – Jun 2025
+
+Gained hands-on experience with enterprise network systems including Meraki Switches and Aruba Controllers.
+Assisted in firmware upgrades, AirWave deployment, and stack switch optimizations.
+Supported setup and testing of CPsec, spanning-tree protocol, and AP preconfiguration.
+
+`Cisco Meraki` `Aruba` `CPsec` `Spanning-Tree` `AirWave`
+
+---
+
+## Projects
+
+**[Visual-Guided Semantic Augmentation](https://github.com/DaXzZz/Visual-Guided-Semantic-Augmentation)** &nbsp;·&nbsp; Research @ NAIST
+
+Compared text, translation, and vision-based augmentation pipelines for multilingual symptom classification
+across 8 labels and 12 languages. Primary metric: Macro F1-score.
+
+`LLM Fine-tuning` `LoRA` `NLP` `Multilingual` `Data Augmentation`
+
+**[BePlan](https://github.com/ikkyuuq/beplan)** &nbsp;·&nbsp; AI-Powered Planner App
+
+Built an AI-driven planner with SMART goal tracking. Handled UI/UX design, workflow logic,
+and secure authentication via Clerk.
+
+`React` `AI Integration` `Clerk`
+
+**[Movie Recommendation](https://github.com/ikkyuuq/movie_recommendation)** &nbsp;·&nbsp; Web App
+
+Designed and built a REST API back-end for structured movie data management
+with automated external data ingestion.
+
+`Flask` `REST API` `Python`
+
+---
+
+## Skills
+
+**AI / ML**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-
-### **AI & NLP Tools**  
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![pandas](https://img.shields.io/badge/-pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-### **Web Development**  
+**Web & Backend**
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### **Tools & Platforms**  
+**Tools**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
-
----
-
-## 📌 Featured Projects  
-
-### 📅 **BePlan (AI-Powered Planner App)**  
-Designed and developed an AI-driven planner app with SMART-based goal tracking.  
-Worked on workflow design, UI/UX, and secure authentication using Clerk.
-
-🔹 **Role:** Front-End & AI Feature Designer  
-🔗 [[View Project](https://github.com/ikkyuuq/beplan)](#)  
-
----
-
-### 🎬 **Movie Management Web App**  
-Developed the back-end system to manage structured movie data, built APIs, and integrated external sources for automation.
-
-🔹 **Role:** Back-End Developer  
-🔗 [[View Project](https://github.com/ikkyuuq/movie_recommendation)](#)
-
----
-
-### 🌍 **Air Quality Detection System (IoT Project)**  
-Created a real-time monitoring system using ESP32 and sensors. Designed dashboard and alert system for environmental insights.
-
-🔹 **Role:** IoT & Data Visualization  
-🔗 [[View Project](#)]  <!-- Add GitHub link if public -->
-
----
-
-## 📊 GitHub Stats  
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DaXzZz&theme=tokyonight)  
-![](https://komarev.com/ghpvc/?username=DaXzZz&color=blue)
-
----
-
-## 📩 Get in Touch  
-📧 Email: [ncc.nontapat@gmail.com]  
-🐙 GitHub: [https://github.com/DaXzZz]  
